@@ -55,7 +55,16 @@
     }
 </style>
 
-<div class="nav"> 
+<div class="nav" style="display: flex;
+        height: 50px;
+        background-color: black;
+        gap: 15px;
+        width: 100%;
+        position: fixed;
+        top: 0px;
+        justify-content: center;
+        align-items: center;
+        z-index: 1;"> 
 <a href="#sobre">Sobre mim </a>
 <a href="#skilss"> Habilidades </a>
 <a href="#formacao">Formações Acadêmicas</a>
