@@ -1,17 +1,5 @@
 <style>
 
-    .nav{
-        display: flex;
-        height: 50px;
-        background-color: black;
-        gap: 15px;
-        width: 100%;
-        position: fixed;
-        top: 0px;
-        justify-content: center;
-        align-items: center;
-        z-index: 1;
-    }
     .a1{
         margin-top: 40px;
     }
