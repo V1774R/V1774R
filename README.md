@@ -36,8 +36,8 @@
 
 - [x] Pronto para enfrentar novos desafios.
 
-<a href="https://alurabooks-navy-chi.vercel.app/" >
-    <button class="btn"> ACESSAR PORTIFÓLIO </button> 
+- <a href="https://alurabooks-navy-chi.vercel.app/" >
+    <button style="width: 100vw;"> ACESSAR PORTIFÓLIO </button> 
 </a>
 
 
@@ -87,7 +87,7 @@ Um projeto voltado ao negócio de Designer de sobrancelhas.
 - [x] Interface para realização de agendamento online
 
 ### Layout
-<img src="./assets/layout.png" class="layout">
+<img src="./assets/layout.png" class="layout" style="min-width: 100vw; ">
 
 <a href="https://projeto-eaf.vercel.app/" >
     <button class="btn">VER DEMONSTRAÇÃO</button> 
@@ -109,7 +109,7 @@ Um projeto voltado ao negócio de Designer de sobrancelhas.
 ## Autores
 
 <a href="https://www.linkedin.com/in/v1774r/">
-    <img src="./assets/me.jpg" class="autor">
+    <img src="./assets/me.jpg" style="max-width: 200px;">
 </a>
 <br>
 
@@ -129,7 +129,7 @@ A Técnica é um método de gerenciamento de tempo que consiste na utilização 
 - [x] Sinais sonoros para indicar o acionamento dos controles.
 
 ### Layout
-<img src="./assets/layoutFokus.png" class="layout">
+<img src="./assets/layoutFokus.png" style="width: 100vw;">
 
 <a href="https://projeto-fokus-rosy.vercel.app/" >
     <button class="btn">VER DEMONSTRAÇÃO</button> 
@@ -146,7 +146,7 @@ A Técnica é um método de gerenciamento de tempo que consiste na utilização 
     <img src="./assets/me.jpg" class="autor">
 </a>
 <a href="https://www.alura.com.br/">
-    <img src="./assets/aluraLogo.webp" class="autor">
+    <img src="./assets/aluraLogo.webp" style="width: 200px;">
 </a>
 
 
@@ -164,7 +164,7 @@ Também é possível reordenar os elementos exibidos.
 
 
 ### Layout
-<img src="./assets/layoutAluraBooks.png" class="layout">
+<img src="./assets/layoutAluraBooks.png" style="width: 100vw;">
 
 <a href="https://alurabooks-navy-chi.vercel.app/" >
     <button class="btn">VER DEMONSTRAÇÃO</button> 
@@ -182,7 +182,7 @@ Também é possível reordenar os elementos exibidos.
     <img src="./assets/me.jpg" class="autor">
 </a>
 <a href="https://www.alura.com.br/">
-    <img src="./assets/aluraLogo.webp" class="autor">
+    <img src="./assets/aluraLogo.webp" style="width: 200px;">
 </a>
 
 </div>
