@@ -36,7 +36,7 @@
 
 - [x] Pronto para enfrentar novos desafios.
 
-- <a href="https://alurabooks-navy-chi.vercel.app/" >
+- <a href="https://alurabooks-navy-chi.vercel.app/"  target="_blank">
     <button style="width: 100vw;"> ACESSAR PORTIFÓLIO </button> 
 </a>
 
@@ -89,7 +89,7 @@ Um projeto voltado a um negócio de Designer de sobrancelhas.
 ### Layout
 <img src="./assets/layout.png" class="layout" style="min-width: 100vw; ">
 
-<a href="https://projeto-eaf.vercel.app/" >
+<a href="https://projeto-eaf.vercel.app/" target="_blank">
     <button class="btn">VER DEMONSTRAÇÃO</button> 
 </a>
 
@@ -108,7 +108,7 @@ Um projeto voltado a um negócio de Designer de sobrancelhas.
 
 ## Autores
 
-<a href="https://www.linkedin.com/in/v1774r/">
+<a href="https://www.linkedin.com/in/v1774r/" target="_blank">
     <img src="./assets/me.jpg" style="max-width: 200px;">
 </a>
 <br>
@@ -131,7 +131,7 @@ A Técnica é um método de gerenciamento de tempo que consiste na utilização 
 ### Layout
 <img src="./assets/layoutFokus.png" style="width: 100vw;">
 
-<a href="https://projeto-fokus-rosy.vercel.app/" >
+<a href="https://projeto-fokus-rosy.vercel.app/" target="_blank">
     <button class="btn">VER DEMONSTRAÇÃO</button> 
 </a>
 
@@ -142,10 +142,10 @@ A Técnica é um método de gerenciamento de tempo que consiste na utilização 
 
 ## Autores
 
-<a href="https://www.linkedin.com/in/v1774r/">
+<a href="https://www.linkedin.com/in/v1774r/ "  target="_blank">
     <img src="./assets/me.jpg" class="autor">
 </a>
-<a href="https://www.alura.com.br/">
+<a href="https://www.alura.com.br/"  target="_blank">
     <img src="./assets/aluraLogo.webp" style="width: 200px;">
 </a>
 
@@ -166,7 +166,7 @@ Também é possível reordenar os elementos exibidos.
 ### Layout
 <img src="./assets/layoutAluraBooks.png" style="width: 100vw;">
 
-<a href="https://alurabooks-navy-chi.vercel.app/" >
+<a href="https://alurabooks-navy-chi.vercel.app/"  target="_blank">
     <button class="btn">VER DEMONSTRAÇÃO</button> 
 </a>
 
@@ -178,10 +178,10 @@ Também é possível reordenar os elementos exibidos.
 
 ## Autores
 
-<a href="https://www.linkedin.com/in/v1774r/">
+<a href="https://www.linkedin.com/in/v1774r/"  target="_blank">
     <img src="./assets/me.jpg" class="autor">
 </a>
-<a href="https://www.alura.com.br/">
+<a href="https://www.alura.com.br/"  target="_blank">
     <img src="./assets/aluraLogo.webp" style="width: 200px;">
 </a>
 
@@ -191,6 +191,6 @@ Também é possível reordenar os elementos exibidos.
 
 <h1 id="contato"> Contato </h1>
 
-### Meu perfil no Linkedin: <a href="https://www.linkedin.com/in/v1774r/"> Victor Almeida </a>
+### Meu perfil no Linkedin: <a href="https://www.linkedin.com/in/v1774r/"  target="_blank"> Victor Almeida </a>
 
 </div>
