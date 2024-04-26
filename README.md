@@ -13,7 +13,7 @@
 # Bem-vindos!👋
 
 <!-- ![olaMundo](./assets/olaMundo.gif) -->
-<img style="width: 10%; height: 250px" src="./assets/olaMundo.gif">
+<img style="width: 100vw; height: 250px" src="./assets/olaMundo.gif">
 
 - 😊 Eu sou Victor Almeida. Um entusiasta em tecnologia.
 - 👀 Estou procurando uma oportunidade de praticar e aprimorar meus conhecimentos.
