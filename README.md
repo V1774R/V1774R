@@ -1,5 +1,6 @@
-<!-- <style>
-    *{
+<style>
+   
+   *{
         scroll-behavior: smooth;
     }
     .nav{
@@ -53,7 +54,8 @@
         background-color: #5d8aa8;
         transition: 0.5s;
     }
-</style> -->
+   
+</style>
 
 <div class="nav"> 
 - <a href="#sobre">Sobre mim </a>
