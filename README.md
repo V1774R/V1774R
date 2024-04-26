@@ -2,18 +2,7 @@
     *{
         scroll-behavior: smooth;
     }
-    .nav{
-        display: flex;
-        height: 50px;
-        background-color: black;
-        gap: 15px;
-        width: 100%;
-        position: fixed;
-        top: 0px;
-        justify-content: center;
-        align-items: center;
-        z-index: 1;
-    }
+
     .a1{
         margin-top: 40px;
     }
@@ -56,12 +45,27 @@
 </style>
 
 <div class="nav"> 
+   
 <a href="#sobre">Sobre mim </a>
 <a href="#skilss"> Habilidades </a>
 <a href="#formacao">Formações Acadêmicas</a>
 <a href="#projetos">Projetos </a>
 <a href="#contato">Contato </a>
+   
 </div>
+
+    .nav{
+        display: flex;
+        height: 50px;
+        background-color: black;
+        gap: 15px;
+        width: 100%;
+        position: fixed;
+        top: 0px;
+        justify-content: center;
+        align-items: center;
+        z-index: 1;
+    }
 
 <div class="area a1">
 
