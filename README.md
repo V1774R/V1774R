@@ -36,7 +36,7 @@
 
 - [x] Pronto para enfrentar novos desafios.
 
-- <a href="https://alurabooks-navy-chi.vercel.app/"  target="_blank">
+- <a href="http://portifolio-villar.vercel.app/"  target="_blank">
     <button style="width: 100vw;"> ACESSAR PORTIFÓLIO </button> 
 </a>
 
