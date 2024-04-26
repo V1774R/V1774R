@@ -53,8 +53,8 @@
 <a href="#contato">Contato </a>
    
 </div>
-
-    .nav{
+<style>
+  .nav{
         display: flex;
         height: 50px;
         background-color: black;
@@ -66,6 +66,8 @@
         align-items: center;
         z-index: 1;
     }
+</style>
+  
 
 <div class="area a1">
 
