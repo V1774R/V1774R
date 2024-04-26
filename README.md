@@ -1,45 +1,4 @@
-<style>
 
-    .a1{
-        margin-top: 40px;
-    }
-    .area{
-        width: 100%;
-        min-height: 40vh;
-        display: flex;
-        flex-direction: column;
-        gap: 10px;
-        justify-content: space-around;
-    }
-    .autor{
-        margin: 10px;
-        transition: 0.5s;
-        border-radius: 100%; 
-        max-width: 150px;
-    }
-    .autor:hover{
-        scale: 1.1;
-        transition: 0.5s;
-    }
-    .layout{
-        min-width: 100%;
-    }
-    .btn{
-        width: 100%;
-        padding: 15px;
-        font-size: 1.2rem;
-        background-color: #708090;
-        color: #fff;
-        font-weight: bold;
-        border: none;
-        transition: 0.5s;
-        cursor: pointer;
-    }
-    .btn:hover{
-        background-color: #5d8aa8;
-        transition: 0.5s;
-    }
-</style>
 
 <div class="nav"> 
 <a href="#sobre">Sobre mim </a>
@@ -235,3 +194,60 @@ Também é possível reordenar os elementos exibidos.
 ### Meu perfil no Linkedin: <a href="https://www.linkedin.com/in/v1774r/"> Victor Almeida </a>
 
 </div>
+
+<style>
+    *{
+        scroll-behavior: smooth;
+    }
+    .nav{
+        display: flex;
+        height: 50px;
+        background-color: black;
+        gap: 15px;
+        width: 100%;
+        position: fixed;
+        top: 0px;
+        justify-content: center;
+        align-items: center;
+        z-index: 1;
+    }
+    .a1{
+        margin-top: 40px;
+    }
+    .area{
+        width: 100%;
+        min-height: 40vh;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        justify-content: space-around;
+    }
+    .autor{
+        margin: 10px;
+        transition: 0.5s;
+        border-radius: 100%; 
+        max-width: 150px;
+    }
+    .autor:hover{
+        scale: 1.1;
+        transition: 0.5s;
+    }
+    .layout{
+        min-width: 100%;
+    }
+    .btn{
+        width: 100%;
+        padding: 15px;
+        font-size: 1.2rem;
+        background-color: #708090;
+        color: #fff;
+        font-weight: bold;
+        border: none;
+        transition: 0.5s;
+        cursor: pointer;
+    }
+    .btn:hover{
+        background-color: #5d8aa8;
+        transition: 0.5s;
+    }
+</style>
