@@ -79,7 +79,7 @@
 <h1 id="projetos">Projetos</h1>
 
 # Espaço Amanda Fernandes
-Um projeto voltado ao negócio de Designer de sobrancelhas.
+Um projeto voltado a um negócio de Designer de sobrancelhas.
 
 ### Funcionalidades
 - [x] Calendário dinâmico criado com JavaScript;
