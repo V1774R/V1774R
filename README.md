@@ -54,8 +54,8 @@
 - SQL.
 - PYTHON.
 - JAVA.
-- REACT JS (cursando).
-- NODE JS (cursando).
+- REACT JS.
+- NODE JS.
 
 </div>
 
@@ -65,7 +65,7 @@
 
 - Análise e Desenvolvimento de Sistemas - Uninter - Concluído.
 - Criação de APIs - Udemy - Cursando.
-- Especialização em Front-end - ORACLE ALURA - Cursando.
+- Especialização em Front-end - ORACLE ALURA - Concluíd.
 - Noções de Java - Udemy - Concluído.
 - PHP - Curso em Vídeo - Concluído.
 - Python - Curso em Vídeo - Concluído.
