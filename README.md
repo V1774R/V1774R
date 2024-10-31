@@ -16,9 +16,11 @@
 <img style="width: 100vw; height: 250px" src="./assets/olaMundo.gif">
 
 - 😊 Eu sou Victor Almeida. Um entusiasta em tecnologia.
-- 👀 Estou procurando uma oportunidade de praticar e aprimorar meus conhecimentos.
+- 💻 Desenvolvedor no Núcleo Setorial de Tecnologia da Guarda Civil Municipal do Recife desde de 10/2023.
+- 👀 Estou procurando uma oportunidade para aprimorar meus conhecimentos.
 - 🌱 Aprendendo algo novo a cada dia.
 - 💞️ Paixão por programação.
+
 
 </div>
 
@@ -64,8 +66,8 @@
 <h2 id="formacao">Formação</h2>
 
 - Análise e Desenvolvimento de Sistemas - Uninter - Concluído.
-- Criação de APIs - Udemy - Cursando.
-- Especialização em Front-end - ORACLE ALURA - Concluíd.
+- Criação de APIs - Udemy - Concluído.
+- Especialização em Front-end - ORACLE ALURA - Concluído.
 - Noções de Java - Udemy - Concluído.
 - PHP - Curso em Vídeo - Concluído.
 - Python - Curso em Vídeo - Concluído.
