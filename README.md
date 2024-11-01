@@ -16,7 +16,6 @@
 <img style="width: 100vw; height: 250px" src="./assets/olaMundo.gif">
 
 - 😊 Eu sou Victor Almeida. Um entusiasta em tecnologia.
-- 💻 Desenvolvedor no Núcleo Setorial de Tecnologia da Guarda Civil Municipal do Recife desde de 10/2023.
 - 👀 Estou procurando uma oportunidade para aprimorar meus conhecimentos.
 - 🌱 Aprendendo algo novo a cada dia.
 - 💞️ Paixão por programação.
@@ -26,6 +25,10 @@
 
 <div class="area">
 
+## Experiência Profissional
+### Desenvolvedor Web Fullstack 
+Núcleo Setorial de Tecnologia da Guarda Civil Municipal do Recife desde de 10/2023. Responsável pelo desenvolvimento de novas soluções tecnológicas para atender às demandas da instituição.
+    
 <h2 id="sobre">Sobre Mim</h2>
 
 - [x] Trabalho em Equipe
@@ -79,6 +82,13 @@
 <div class="area">
 
 <h1 id="projetos">Projetos</h1>
+
+# Gerador de Certificados - SINS
+  (aguardando publicação)
+# Sisitema do Setor de Transportes 
+  (aguardando publicação)
+# Peludos PetShop
+  (aguardando publicação)
 
 # Espaço Amanda Fernandes
 Um projeto voltado a um negócio de Designer de sobrancelhas.
